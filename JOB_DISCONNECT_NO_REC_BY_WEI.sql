@@ -1,3 +1,5 @@
+-- Work Sample from SAP HANA
+
 -- Six Tables
 -- "YOURSCHEMA"."STG.T_STG_EAI_SVC_ORDERS_HIST"      [DNP info]
 -- "YOURSCHEMA"."STG.T_MOBILE_DATA_CREW_ONSITE_HIST" [Crew onsite info]
