@@ -1,4 +1,4 @@
--- Work Sample from SAP HANA
+-- Work Sample from SAP HANA 
 
 -- Six Tables
 -- "YOURSCHEMA"."STG.T_STG_EAI_SVC_ORDERS_HIST"      [DNP info]
