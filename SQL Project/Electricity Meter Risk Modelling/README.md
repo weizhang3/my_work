@@ -7,7 +7,7 @@ This SQL project focuses on creating a robust and automated daily report to iden
 
 ### 2. Data Sources
 
-The project utilizes six key tables from the "YOURSCHEMA" schema:
+The project utilizes six key tables from the "UTILITY_DATA" schema:
 
 1. **T_STG_EAI_SVC_ORDERS_HIST**: Contains historical data of service orders, including DNP information.
 2. **T_MOBILE_DATA_CREW_ONSITE_HIST**: Provides details of crew onsite activities.
