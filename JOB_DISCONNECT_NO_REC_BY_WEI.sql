@@ -1,12 +1,12 @@
 -- SQL Work Sample  
 
 -- Six Tables
--- "YOURSCHEMA"."STG.T_STG_EAI_SVC_ORDERS_HIST"            [DNP info]
--- "YOURSCHEMA"."STG.T_MOBILE_DATA_CREW_ONSITE_HIST"       [Crew onsite info]
--- "YOURSCHEMA"."STG.PREMISE_CHAR"                         [Customer info]
--- "YOURSCHEMA"."STG.METER_CHAR"					                 [Meter info]
--- "YOURSCHEMA"."EIP_RA.EIP_RA_USR.INTERVAL_F"		         [Elec Usage info]
--- "YOURSCHEMA"."EIP_RA.EIP_RA_USR.SDP_D"			             [WID, UDC_ID (ESI_IS)]
+-- "YOURSCHEMA"."STG.T_STG_EAI_SVC_ORDERS_HIST" [DNP info]
+-- "YOURSCHEMA"."STG.T_MOBILE_DATA_CREW_ONSITE_HIST" [Crew onsite info]
+-- "YOURSCHEMA"."STG.PREMISE_CHAR" [Customer info]
+-- "YOURSCHEMA"."STG.METER_CHAR" [Meter info]
+-- "YOURSCHEMA"."EIP_RA.EIP_RA_USR.INTERVAL_F" [Elec Usage info]
+-- "YOURSCHEMA"."EIP_RA.EIP_RA_USR.SDP_D" [WID, UDC_ID (ESI_IS)]
 
 -- Business Requirements Doc (BRD)
 -- 1. Basic data elements to be included are:
