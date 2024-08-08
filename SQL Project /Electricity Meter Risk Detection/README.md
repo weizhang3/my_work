@@ -1,11 +1,11 @@
 ## SQL Data Analysis Project: Detecting Tampering Based on Service Disconnects for Non-Payment
 
 
-### Overview
+### 1.Overview
 
 This SQL project focuses on creating a robust and automated daily report to identify potential tampering at customer premises based on service disconnects for non-payment (DNP). By integrating data from multiple sources and applying complex filtering criteria, the project aims to provide a comprehensive view of suspicious activities that may indicate tampering.
 
-### Data Sources
+### 2.Data Sources
 
 The project utilizes six key tables from the "YOURSCHEMA" schema:
 
@@ -16,7 +16,7 @@ The project utilizes six key tables from the "YOURSCHEMA" schema:
 5. **INTERVAL_F**: Records electric usage data.
 6. **SDP_D**: Maps usage data with service delivery points (WID and UDC_ID).
 
-### Business Requirements
+### 3.Business Requirements
 
 The main objectives of this project, as defined by the Business Requirements Document (BRD), are:
 
@@ -28,7 +28,7 @@ The main objectives of this project, as defined by the Business Requirements Doc
 6. **Usage Threshold**: Ensure there are at least two months of usage greater than 200 KWH prior to the DNP date.
 7. **Daily Refresh**: The data should be refreshed daily for accuracy.
 
-### Methodology
+### 4.Methodology
 
 The SQL query involves several steps to meet the above requirements:
 
@@ -39,7 +39,7 @@ The SQL query involves several steps to meet the above requirements:
 5. **Electric Usage Verification**: Ensure the account has consistent electric usage above the threshold for the past two months.
 6. **Final Filtering**: Apply final filters to meet the criteria of no recent reconnect/move activities and ensure the account status is active.
 
-### Conclusion
+### 5.Conclusion
 
 This project demonstrates the ability to integrate and analyze complex datasets to provide actionable insights. By automating the detection of potential tampering based on service disconnects, the project helps in maintaining the integrity of the service network and prevents revenue losses. The detailed and structured approach ensures that all business requirements are met effectively, making this an invaluable tool for utility service providers.
 
