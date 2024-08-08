@@ -1,4 +1,4 @@
-#### SQL Data Analysis Project: Detecting Tampering Based on Service Disconnects for Non-Payment
+## SQL Data Analysis Project: Detecting Tampering Based on Service Disconnects for Non-Payment
 
 
 ### Overview
