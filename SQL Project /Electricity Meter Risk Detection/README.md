@@ -1,9 +1,5 @@
----
-title: "SQL Data Analysis Project: Detecting Tampering Based on Service Disconnects for Non-Payment"
-author: "Wei Zhang"
-date: "2023-04-15"
-output: html_document
----
+#### SQL Data Analysis Project: Detecting Tampering Based on Service Disconnects for Non-Payment
+
 
 ### Overview
 
