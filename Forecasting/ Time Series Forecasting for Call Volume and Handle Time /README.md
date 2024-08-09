@@ -43,9 +43,11 @@ This project demonstrates advanced time series forecasting techniques applied to
 
 ## Key Findings
 
-- **Volume Trends**: The forecasted volume showed a consistent upward trend with seasonal peaks and troughs.
-- **Handle Time**: The handle time prediction indicated an increase over the next year, highlighting the need for increased staffing during peak periods.
-- **Model Performance**: The SARIMA model provided slightly better accuracy than ARIMA, particularly for longer-term forecasts.
+- **Weekly Volume Forecast**: The ARIMA model forecasts an upward trend in weekly call volumes over the next 12 weeks, ranging from approximately 2,145 to 3,970 calls per week. A significant spike is expected in early November.
+- **Monthly Volume Forecast**: For the next 18 months, monthly call volumes are projected to increase steadily, starting from around 11,845 in September 2023 and potentially reaching over 20,376 by October 2024.
+- **Average Handle Time (AHT) Forecast**: The AHT is anticipated to gradually rise over the next year, from about 1,052 seconds in September 2023 to approximately 1,196 seconds by December 2024.
+- **Total Handled Time (HT) Projection**: Combining the volume and AHT forecasts, the total handled time is expected to escalate, indicating a growing workload for the call center. For example, HT is forecasted to increase from approximately 12.4 million seconds in September 2023 to over 24 million seconds by October 2024.
+- **Model Performance**: The ARIMA models demonstrated strong predictive capabilities, with low mean absolute errors (MAE) and mean absolute percentage errors (MAPE), ensuring reliable and accurate forecasts.
 
 ## Conclusion
 
