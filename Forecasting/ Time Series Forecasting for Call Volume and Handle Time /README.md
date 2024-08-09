@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates advanced time series forecasting techniques applied to real-world data from Square Inc's inbound call handling group. The goal was to predict future call volumes and handle times to assist in workforce planning, ensuring sufficient staffing levels to meet demand.
+This project demonstrates advanced time series forecasting techniques applied to real-world data from Square Inc.'s inbound call handling group. The goal was to predict future call volumes and handle times to assist in workforce planning, ensuring sufficient staffing levels to meet demand.
 
 ## Project Objectives
 
