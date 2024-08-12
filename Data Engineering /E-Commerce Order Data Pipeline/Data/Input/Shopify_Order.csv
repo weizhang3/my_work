@@ -1,0 +1,45 @@
+Name,Email,Financial Status,Paid at,Fulfillment Status,Fulfilled at,Accepts Marketing,Currency,Subtotal,Shipping,Taxes,Total,Discount Code,Discount Amount,Shipping Method,Created at,Lineitem quantity,Lineitem name,Lineitem price,Lineitem compare at price,Lineitem sku,Lineitem requires shipping,Lineitem taxable,Lineitem fulfillment status,Billing Name,Billing Street,Billing Address1,Billing Address2,Billing Company,Billing City,Billing Zip,Billing Province,Billing Country,Billing Phone,Shipping Name,Shipping Street,Shipping Address1,Shipping Address2,Shipping Company,Shipping City,Shipping Zip,Shipping Province,Shipping Country,Shipping Phone,Notes,Note Attributes,Cancelled at,Payment Method,Payment Reference,Refunded Amount,Vendor,Id,Tags,Risk Level,Source,Lineitem discount,Tax 1 Name,Tax 1 Value,Tax 2 Name,Tax 2 Value,Tax 3 Name,Tax 3 Value,Tax 4 Name,Tax 4 Value,Tax 5 Name,Tax 5 Value,Phone,Receipt Number,Duties,Billing Province Name,Shipping Province Name,Payment ID,Payment Terms Name,Next Payment Due At,Payment References
+#11193898,,paid,8/9/24 15:49,unfulfilled,,no,USD,26,0,2.24,28.24,,0,Standard,8/9/24 15:49,1,Whetstone Women's Sun Protection Hat - Natural / OSFM,26,,SS22W-21-NAT,TRUE,TRUE,pending,JULIA FOX,2514 34TH AVE,2514 34TH AVE,,,SAN FRANCISCO,'94116,CA,US,Phone number: N/A,JULIA FOX,2514 34TH AVE,2514 34TH AVE,,,SAN FRANCISCO,'94116,CA,US,Phone number: N/A,,"Order placed from: Macy's Inc. 
+Tenant_id: macysus-prod
+Order_id: 2978113779-A
+Marketplace Order Status: SHIPPING
+Shipping deadline: 2024/08/14
+Expected delivery date: 2024/08/17 to 2024/08/22
+Order total price: 28.24 USD
+Fulfillment_center_code: DEFAULT
+Mirakl order link: https://macysus-prod.mirakl.net/mmp/shop/order/2978113779-A/
+registry (2978113779-1): false
+Learn more: https://miraklconnect.com/doc/seller/topics/shopify/shopify_intro.htm",,,#11193898.1,0,Kanut Sports,6.32237E+12,"2978113779, Macy's Inc., Mirakl, Ship by 2024/08/14",Low,Macy's Inc. ,0,SALES-TAX-OPERATOR 8.62%,2.24,Shipping tax SHIPPING-TAX-OPERATOR 0%,0,,,,,,,,,,California,California,#11193898.1,,,#11193898.1
+#11193899,,paid,8/9/24 16:29,unfulfilled,,no,USD,24,0,2.28,26.28,,0,Standard,8/9/24 16:29,1,Nolin Baseball cap - CAMEL / OSFM,24,,SS22M-45-CAM,TRUE,TRUE,pending,ARTHUR CORRAL,"5055 COLDWATER CANYON AVE, APT 216",5055 COLDWATER CANYON AVE,APT 216,,SHERMAN OAKS,'91423,CA,US,Phone number: N/A,ARTHUR CORRAL,5055 COLDWATER CANYON AVE APT 216,5055 COLDWATER CANYON AVE APT 216,,,SHERMAN OAKS,'91423,CA,US,Phone number: N/A,,"Order placed from: Macy's Inc. 
+Tenant_id: macysus-prod
+Order_id: 2977964340-A
+Marketplace Order Status: SHIPPING
+Shipping deadline: 2024/08/14
+Expected delivery date: 2024/08/17 to 2024/08/22
+Order total price: 26.28 USD
+Fulfillment_center_code: DEFAULT
+Mirakl order link: https://macysus-prod.mirakl.net/mmp/shop/order/2977964340-A/
+registry (2977964340-3): false
+Learn more: https://miraklconnect.com/doc/seller/topics/shopify/shopify_intro.htm",,,#11193899.1,0,Kanut Sports,6.32243E+12,"2977964340, Macy's Inc., Mirakl, Ship by 2024/08/14",Low,Macy's Inc. ,0,SALES-TAX-OPERATOR 9.5%,2.28,Shipping tax SHIPPING-TAX-OPERATOR 0%,0,,,,,,,,,,California,California,#11193899.1,,,#11193899.1
+#11193900,,paid,8/9/24 17:39,unfulfilled,,no,USD,24,0,2.01,26.01,,0,Standard,8/9/24 17:39,1,Augusta Performance Baseball Cap With Reflective Printing - Grey / OSFM,24,,74535-GRE,TRUE,TRUE,pending,EMMA RAYMUNDO,10747 HAMMETT PARK AVENUE,10747 HAMMETT PARK AVENUE,,,LAS VEGAS,'89166,NV,US,Phone number: N/A,EMMA RAYMUNDO,10747 HAMMETT PARK AVE,10747 HAMMETT PARK AVE,,,LAS VEGAS,'89166,NV,US,Phone number: N/A,,"Order placed from: Macy's Inc. 
+Tenant_id: macysus-prod
+Order_id: 2978115321-A
+Marketplace Order Status: SHIPPING
+Shipping deadline: 2024/08/14
+Expected delivery date: 2024/08/17 to 2024/08/22
+Order total price: 26.01 USD
+Fulfillment_center_code: DEFAULT
+Mirakl order link: https://macysus-prod.mirakl.net/mmp/shop/order/2978115321-A/
+registry (2978115321-2): false
+Learn more: https://miraklconnect.com/doc/seller/topics/shopify/shopify_intro.htm",,,#11193900.1,0,KANUT SPORTS,6.32253E+12,"2978115321, Macy's Inc., Mirakl, Ship by 2024/08/14",Low,Macy's Inc. ,0,SALES-TAX-OPERATOR 8.38%,2.01,Shipping tax SHIPPING-TAX-OPERATOR 0%,0,,,,,,,,,,Nevada,Nevada,#11193900.1,,,#11193900.1
+#11193901,,paid,8/9/24 18:59,unfulfilled,,no,USD,24,0,1.86,25.86,,0,Standard,8/9/24 18:59,1,Augusta Performance Baseball Cap With Reflective Printing - Beige / OSFM,24,,74535-BEI,TRUE,TRUE,pending,JOAN L SMITH,3660 THURMAN RD,3660 THURMAN RD,,,COLLEGE PARK,'30349,GA,US,Phone number: N/A,JOAN SMITH,3660 THURMAN ROAD,3660 THURMAN ROAD,,,COLLEGE PARK,'30349,GA,US,Phone number: N/A,,"Order placed from: Macy's Inc. 
+Tenant_id: macysus-prod
+Order_id: 2977696785-B
+Marketplace Order Status: SHIPPING
+Shipping deadline: 2024/08/14
+Expected delivery date: 2024/08/17 to 2024/08/22
+Order total price: 25.86 USD
+Fulfillment_center_code: DEFAULT
+Mirakl order link: https://macysus-prod.mirakl.net/mmp/shop/order/2977696785-B/
+registry (2977696785-5): false
+Learn more: https://miraklconnect.com/doc/seller/topics/shopify/shopify_intro.htm",,,#11193901.1,0,KANUT SPORTS,6.32264E+12,"2977696785, Macy's Inc., Mirakl, Ship by 2024/08/14",Low,Macy's Inc. ,0,SALES-TAX-OPERATOR 7.75%,1.86,Shipping tax SHIPPING-TAX-OPERATOR 0%,0,,,,,,,,,,Georgia,Georgia,#11193901.1,,,#11193901.1
